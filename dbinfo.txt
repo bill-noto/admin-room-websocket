@@ -1,0 +1,3 @@
+db name - "wsblogpost"
+db username - "root"
+db password - ""
